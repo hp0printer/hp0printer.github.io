@@ -1,6 +1,6 @@
 # 123.hp.com/setup
 
-[![123.hp.com/setup](get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![123.hp.com/setup](get-started.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
 
 The HP wireless printer is easy to install and offers clear documents. Print, copy and scan with one compact device that fits neatly into small office spaces. HP Printers gives easy, reliable, and affordable printing and copying for professional-quality documents in one compact desktop device. [123.hp.com/setup](https://hp0printer.github.io/) - Are you facing any problem to setup HP printer so dont worry you need to follow easy steps to setup HP printer easily.
